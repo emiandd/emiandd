@@ -7,7 +7,7 @@ Tener un background en gastronomía me ha permitido desarrollar habilidades como
 
 - 🔭 Trabajé con un increíble equipo en [AdoptaMe](https://adoptame.vercel.app/)
 
-- 🌱 Actualmente me encuentro aprendiendo **React Native** y **TypeScript**
+- 🌱 Actualmente me encuentro aprendiendo **Testing**, **React Native** y **TypeScript**
 
 - 📫 Contacto **emilandresaravena@icloud.com**
 
