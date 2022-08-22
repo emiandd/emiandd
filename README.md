@@ -9,7 +9,7 @@ Tener un background en gastronomía me ha permitido desarrollar habilidades como
 
 - 🌱 Actualmente me encuentro aprendiendo **Testing**, **React Native** y **TypeScript**
 
-- 🌱 Mira mi portfolio!: https://emiandd-dev.vercel.app/
+- 💼 Mira mi portfolio: https://emiandd-dev.vercel.app/
 
 - 📫 Contacto **emilandresaravena@icloud.com**
 
